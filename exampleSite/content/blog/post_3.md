@@ -1,16 +1,58 @@
----
-title: "luctus enim ultricies auctor pulvinar nam etiam"
-date: 2018-01-06
-tags: ["mollis urna", "notes", "laoreet"]
-categories: ["diam aliqua", "fringilla"]
-description: "dictum tellus sapien vitae integer justo amet mauris cras bolestie sollicitudin dignissim"
-draft: false
----
++++
+author = "Hugo Authors"
+title = "Placeholder Text"
+date = "2019-03-09"
+description = "Lorem Ipsum Dolor Si Amet"
+tags = [
+    "markdown",
+    "text",
+]
++++
 
-# donec lacinia eleifend sem a
+Lorem est tota propiore conpellat pectoribus de
+pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
+lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
-Pulvinar tempor ultrices amet praesent aliquet non magnis euismod elit venenatis. Aliqua consequat tristique erat nulla sit risus aliqua posuere. Potenti natoque augue proin accimsan risus scelerisque id integer curabitur mattis amet quisque. Aliquet porta sit sapien natoque sed fringilla, madssa suspendisse vivamus placerat sociis condimentum ridiculus. Natoque egestas non lectus pellentesque nunc mattis eu ridiculus pretium maecenas ligula. Gravida facilisis sem mollis sagittis aliquet ornare bibendum, leo nec morbi tortor diam maecenas tempor.
+1. Exierant elisi ambit vivere dedere
+2. Duce pollice
+3. Eris modo
+4. Spargitque ferrea quos palude
 
-Natoque ipsum ac purus mi tempus facilisis suspendisse consectetur duis interdum. Potenti vel accimsan fringilla vestibulum neque odio, lacinia duis facilisi turpis consectetur sollicitudin eleifend. Netus posuere et aliquet mauris lacinia habitant lacus imperdiet. Mollis auctor facilisi commodo maecenas condimentum convallis, pretium in consequat velit vel ipsum posuere. Est mollis imperdiet proin vel iaculis aliquam lorem, nibh mattis magna commodo consequat convallis volutpat. Vel gravida purus sagittis nunc netus aliquam quis facilisi magnis.
+Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
+silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria
+tractus malis.
 
-Sapien tellus lobortis felis pulvinar ut vulputate adipiscing nisi leo vitae. Gravida faucibus adipiscing vitae lorem elementum nulla velit cursus non pretium rhoncus nam. Fermentum sem sit velit libero donec dignissim, eget integer tortor vitae sapien dolore adipiscing. Vivamus metus nisl scelerisque rutrum praesent tempor aliqua in velit. Erat auctor fames mus mi pulvinar nulla porta rhoncus. Pharetra amet purus sagittis sollicitudin ipsum ullamcorper nam id congue integer netus etiam.
+1. Comas hunc haec pietate fetum procerum dixit
+2. Post torum vates letum Tiresia
+3. Flumen querellas
+4. Arcanaque montibus omnes
+5. Quidem et
+
+# Vagus elidunt
+
+<svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg>
+
+[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
+
+## Mane refeci capiebant unda mulcebat
+
+Victa caducifer, malo vulnere contra
+dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere
+furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
+
+Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
+Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
+Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
+ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
+vulnus haerentia iuste et exercebat, sui et.
+
+Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, *oculos nomen* non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem
+Propoetides **parte**.
+
+{{< css.inline >}}
+<style>
+.canon { background: white; width: 100%; height: auto;}
+</style>
+{{< /css.inline >}}
